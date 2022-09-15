@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>CodegaHouse</title>
+    <link href="https://codega.house/feed.xml" rel="self" />
+    <link href="https://codega.house" />
+    <updated>2022-09-14T17:14:52-07:00</updated>
+    <author>
+        <name>Michael</name>
+    </author>
+    <id>https://codega.house</id>
+
+    <entry>
+        <title>Welcome Home</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://codega.house/welcome-home.html"/>
+        <id>https://codega.house/welcome-home.html</id>
+
+        <updated>2022-09-14T17:14:52-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
